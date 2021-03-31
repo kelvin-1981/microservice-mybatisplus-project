@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatisplus-01-quickly" />
+        <module name="mybatisplus-02-autocode" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-mybatisplus-project" target="1.8" />
+      <module name="mybatisplus-01-quickly" target="1.8" />
+      <module name="mybatisplus-02-autocode" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="microservice-mybatisplus-project" options="-parameters" />
+      <module name="mybatisplus-01-quickly" options="-parameters" />
+      <module name="mybatisplus-02-autocode" options="-parameters" />
+    </option>
+  </component>
+</project>

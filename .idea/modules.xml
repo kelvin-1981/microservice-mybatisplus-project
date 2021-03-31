@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-mybatisplus-project.iml" filepath="$PROJECT_DIR$/microservice-mybatisplus-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus-01-quickly/mybatisplus-01-quickly.iml" filepath="$PROJECT_DIR$/mybatisplus-01-quickly/mybatisplus-01-quickly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus-02-autocode/mybatisplus-02-autocode.iml" filepath="$PROJECT_DIR$/mybatisplus-02-autocode/mybatisplus-02-autocode.iml" />
+    </modules>
+  </component>
+</project>
